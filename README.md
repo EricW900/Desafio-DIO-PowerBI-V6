@@ -1,4 +1,4 @@
-# Desafio DIO V5 - Engenharia de Dados
+# Desafio DIO V6 - Engenharia de Dados
 
 Este repositório contém a solução para o desafio de engenharia de dados da DIO, que consiste em criar tabelas dimensões e fatos do **Star Schema**.
 
